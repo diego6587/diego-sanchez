@@ -6,8 +6,3 @@ public class SalidaFormateada2 {
         System.out.printf("%-10s\t%8.2f\t%6d\n", "platano",2.5,10);
         System.out.printf("%-10s\t%8.2f\t%6d\n", "uva",5.5,10);
         System.out.printf("%-10s\t%8.2f\t%6d\n", "naranja",3.5,10);
-        System.out.printf("%-10s\t%8.2f\t%6d\n", "mandarina",6.5,10);
-        System.out.printf("%-10s\t%8.2f\t%6d\n", "papaya",4.7,10);
-    }
-        
-}
